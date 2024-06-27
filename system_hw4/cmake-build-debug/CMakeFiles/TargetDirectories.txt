@@ -1,0 +1,3 @@
+/home/baris/Desktop/system_hw4/cmake-build-debug/CMakeFiles/system_hw4.dir
+/home/baris/Desktop/system_hw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/baris/Desktop/system_hw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/baris/Desktop/system_final/cmake-build-debug/CMakeFiles/system_final.dir
+/home/baris/Desktop/system_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/baris/Desktop/system_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
